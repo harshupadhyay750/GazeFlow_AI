@@ -1,0 +1,16 @@
+{
+  "camera_indices": [0, 1, 2, 3],
+  "camera_width": 640,
+  "camera_height": 480,
+  "horizontal_threshold": 0.12,
+  "vertical_threshold": 0.14,
+  "minimum_confidence": 0.45,
+  "stability_window": 10,
+  "calibration_target_duration": 2.0,
+  "minimum_valid_samples": 8,
+  "gaze_smoothing": 0.35,
+  "center_dead_zone": 0.05,
+  "gaze_hysteresis": 0.08,
+  "calibration_data_path": "",
+  "calibration_required_samples": 6
+}
